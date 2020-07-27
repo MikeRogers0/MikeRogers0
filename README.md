@@ -6,4 +6,4 @@ My name is Mike, welcome to my GitHub Page!
 
 📫 How to reach me: [Twitter](https://twitter.com/MikeRogers0) & [My Site](https://mikerogers.io/)
 
-☕️ <a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/MikeRogers0">Buy me a coffee</a>
+☕️ [Buy me a coffee](https://www.buymeacoffee.com/MikeRogers0)
