@@ -4,7 +4,7 @@ I am a Ruby on Rails developer from the UK.
 
 If you like my work, please consider [buying me a coffee](https://www.buymeacoffee.com/MikeRogers0) - every coffee is really appreciated!
 
-## 📫 Connect with me
+## 📫 Connect With Me
 
 If you'd to talk with me about Ruby, please feel free to message me on [Twitter](https://twitter.com/MikeRogers0) or send me an email [me@mikerogers.io](mailto:me+site@mikerogers.io?subject=Work%20with%20You).
 
