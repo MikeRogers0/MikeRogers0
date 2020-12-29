@@ -17,6 +17,9 @@ I am a Ruby on Rails developer from the UK.
 # 📚 Latest [Blog](https://mikerogers.io/) Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Make Rails Work Offline (PWA)](https://mikerogers.io/2020/12/14/how-to-make-rails-work-offline-via-service-workers)
+- [How I write my RSpec Specs](https://mikerogers.io/2020/11/24/how-i-write-my-rspec-specs)
+- [How To Be Serverless on Heroku](https://mikerogers.io/2020/11/11/how-to-be-serverless-on-heroku)
 <!-- BLOG-POST-LIST:END -->
 
 # 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
