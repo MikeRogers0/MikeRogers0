@@ -6,7 +6,7 @@ If you like my work, please consider [buying me a coffee](https://www.buymeacoff
 
 ## 📫 Connect with me
 
-If you'd to talk with me about Ruby, please feel free to message me on [Twitter](https://twitter.com/MikeRogers0) or send me an email [mailto:me+site@mikerogers.io?subject=Work%20with%20You](me@mikerogers.io).
+If you'd to talk with me about Ruby, please feel free to message me on [Twitter](https://twitter.com/MikeRogers0) or send me an email [me@mikerogers.io](mailto:me+site@mikerogers.io?subject=Work%20with%20You).
 
 ## 🛠 My Current Projects
 
