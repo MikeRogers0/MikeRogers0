@@ -25,4 +25,6 @@ I am a Ruby on Rails developer from the UK.
 # 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Inline Editing With turbo_frame_tag (hotwire-rails)](https://www.youtube.com/watch?v=e2GOdfUsc9U)
+- [Real-Time Partial Updates in Ruby on Rails using hotwire-rails](https://www.youtube.com/watch?v=MRv4XGu6QkY)
 <!-- YOUTUBE-POST-LIST:END -->
