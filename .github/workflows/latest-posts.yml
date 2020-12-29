@@ -1,0 +1,23 @@
+name: Latest posts workflow
+on:
+  schedule:
+    - cron: '15 22 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-posts:
+    name: Update this repo's README with latest blog posts & YouTube videos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          feed_list: "https://mikerogers.io/rss.xml"
+          max_post_count: 3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE-POST-LIST"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCeYdh6WLzE88DSvk0yZ_k1w"
+          commit_message: "Updated with the latest YouTube posts"
+          max_post_count: 2
