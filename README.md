@@ -4,11 +4,7 @@ I am a Ruby on Rails developer from the UK.
 
 ## 📫 Connect with me
 
-[📚](https://mikerogers.io/)
-
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" />](https://twitter.com/MikeRogers0)
-
-[<img align="left" alt="Buy me a coffee" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/buymeacoffee.svg" />](https://www.buymeacoffee.com/MikeRogers0)
+[Twitter](https://twitter.com/MikeRogers0), [My Site](https://mikerogers.io/) or [Buy me a coffee](https://www.buymeacoffee.com/MikeRogers0).
 
 ## 🛠 My Current Projects
 
