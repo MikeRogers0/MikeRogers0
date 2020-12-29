@@ -2,19 +2,18 @@
 
 I am a Ruby on Rails developer from the UK.
 
-## 📫 Connect with me:
+If you like my work, please consider [buying me a coffee](https://www.buymeacoffee.com/MikeRogers0) - every coffee is really appreciated!
 
-📫 How to reach me: [Twitter](https://twitter.com/MikeRogers0) & [My Site](https://mikerogers.io/)
+## 📫 Connect with me
 
-☕️ [Buy me a coffee](https://www.buymeacoffee.com/MikeRogers0)
+If you'd to talk with me about Ruby, please feel free to message me on [Twitter](https://twitter.com/MikeRogers0) or send me an email [mailto:me+site@mikerogers.io?subject=Work%20with%20You](me@mikerogers.io).
 
-## 🛠 My Current Projects:
+## 🛠 My Current Projects
 
-🚀 I’m currently working on [Typo CI](https://github.com/marketplace/typo-ci), a spellchecker for Pull Requests.
+- [Typo CI](https://github.com/marketplace/typo-ci) - Check your code for spelling mistakes.
+- [Ruby Starter Kits](https://github.com/Ruby-Starter-Kits/) - Quick start Docker templates for Ruby applications.
 
-🙏 I’m looking for help with [Ruby Starter Kits](https://github.com/Ruby-Starter-Kits/), a way for people to get Ruby up and running with just docker.
-
-# 📚 Latest [Blog](https://mikerogers.io/) Posts
+## 📚 Latest [Blog](https://mikerogers.io/) Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Make Rails Work Offline (PWA)](https://mikerogers.io/2020/12/14/how-to-make-rails-work-offline-via-service-workers)
@@ -22,7 +21,7 @@ I am a Ruby on Rails developer from the UK.
 - [How To Be Serverless on Heroku](https://mikerogers.io/2020/11/11/how-to-be-serverless-on-heroku)
 <!-- BLOG-POST-LIST:END -->
 
-# 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
+## 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
 
 <!-- YOUTUBE-POST-LIST:START -->
 - [Inline Editing With turbo_frame_tag (hotwire-rails)](https://www.youtube.com/watch?v=e2GOdfUsc9U)
