@@ -24,6 +24,6 @@ If you'd to talk with me about Ruby, please feel free to message me on [Twitter]
 ## 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Resize Images with Active Storage in Rails](https://www.youtube.com/watch?v=pLCYFVd0tFo)
 - [Inline Editing With turbo_frame_tag (hotwire-rails)](https://www.youtube.com/watch?v=e2GOdfUsc9U)
-- [Real-Time Partial Updates in Ruby on Rails using hotwire-rails](https://www.youtube.com/watch?v=MRv4XGu6QkY)
 <!-- YOUTUBE-POST-LIST:END -->
