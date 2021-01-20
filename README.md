@@ -24,6 +24,6 @@ If you'd to talk with me about Ruby, please feel free to message me on [Twitter]
 ## 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [How to Review Emails with ActionMailer::Preview (Ruby on Rails 6)](https://www.youtube.com/watch?v=1HEClpa8A3M)
 - [PDF Previews with Rails 6 Active Storage](https://www.youtube.com/watch?v=W_A4wWW3uaU)
-- [Resize Images with Active Storage in Rails](https://www.youtube.com/watch?v=pLCYFVd0tFo)
 <!-- YOUTUBE-POST-LIST:END -->
