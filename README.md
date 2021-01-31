@@ -24,6 +24,6 @@ If you'd to talk with me about Ruby, please feel free to message me on [Twitter]
 ## 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Fixing "Detected sqlite3 gem which is not supported on Heroku" when deploying Rails to Heroku](https://www.youtube.com/watch?v=AA6GZBPeveU)
 - [Upload Files with Simple File Upload](https://www.youtube.com/watch?v=vQo-sHqO7Z8)
-- [How to Review Emails with ActionMailer::Preview (Ruby on Rails 6)](https://www.youtube.com/watch?v=1HEClpa8A3M)
 <!-- YOUTUBE-POST-LIST:END -->
