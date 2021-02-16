@@ -24,6 +24,6 @@ If you'd to talk with me about Ruby, please feel free to message me on [Twitter]
 ## 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [How to Inline CSS Styles in Email Mailers Using premailer-rails](https://www.youtube.com/watch?v=8eah-f24DlY)
 - [How To Encrypt Fields in Ruby on Rails with Lockbox](https://www.youtube.com/watch?v=sEOLtIGkDeM)
-- [Fixing "Detected sqlite3 gem which is not supported on Heroku" when deploying Rails to Heroku](https://www.youtube.com/watch?v=AA6GZBPeveU)
 <!-- YOUTUBE-POST-LIST:END -->
