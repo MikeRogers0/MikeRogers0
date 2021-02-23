@@ -24,6 +24,6 @@ If you'd to talk with me about Ruby, please feel free to message me on [Twitter]
 ## 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [How To Use Yarn with The Rails Asset Pipeline](https://www.youtube.com/watch?v=niUmTM97z7c)
 - [How to Inline CSS Styles in Email Mailers Using premailer-rails](https://www.youtube.com/watch?v=8eah-f24DlY)
-- [How To Encrypt Fields in Ruby on Rails with Lockbox](https://www.youtube.com/watch?v=sEOLtIGkDeM)
 <!-- YOUTUBE-POST-LIST:END -->
