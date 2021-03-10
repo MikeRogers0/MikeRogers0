@@ -24,6 +24,6 @@ If you'd to talk with me about Ruby, please feel free to message me on [Twitter]
 ## 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Aggregating Failures in RSpec](https://www.youtube.com/watch?v=10jBIa244iI)
 - [How to Persist Scroll Position with Hotwire Turbo](https://www.youtube.com/watch?v=yRH6ezEAfF8)
-- [How To Use Yarn with The Rails Asset Pipeline](https://www.youtube.com/watch?v=niUmTM97z7c)
 <!-- YOUTUBE-POST-LIST:END -->
