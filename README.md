@@ -3,7 +3,7 @@
 <p>
   <a href="https://twitter.com/MikeRogers0"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://dev.to/MikeRogers0"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-  <a href="https://www.buymeacoffee.com/mikerogers0" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee%20-%23FEDE0A.svg?&style=for-the-badge&logo=buy%20me%20a%20coffee&logoColor=white" alt="Buy Me A Coffee donate button" /></a>
+  <a href="https://www.buymeacoffee.com/mikerogers0" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee%20-%23FEDE0A.svg?&style=for-the-badge&logo=buy%20me%20a%20coffee&logoColor=white" alt="Buy Me A Coffee donate button" height=25 /></a>
   <a href="https://www.youtube.com/c/MikeRogers0"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 </p>
 
