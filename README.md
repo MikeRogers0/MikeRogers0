@@ -45,6 +45,6 @@ If you'd to talk with me about Ruby, please feel free to message me on [Twitter]
 ## 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [An Introduction to Docker for Ruby Developers](https://www.youtube.com/watch?v=JTQpEXKoLUg)
 - [Lint & Format Messy Ruby Code Using Standard](https://www.youtube.com/watch?v=zQ4BiObOf2U)
-- [How To Paginate A Collection Using Pagy](https://www.youtube.com/watch?v=aILtxj_LVuA)
 <!-- YOUTUBE-POST-LIST:END -->
