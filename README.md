@@ -45,6 +45,6 @@ If you'd to talk with me about Ruby, please feel free to message me on [Twitter]
 ## 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [How to Remove ActiveStorage & ActionMailbox Routes in Rails](https://www.youtube.com/watch?v=IDsYWrsmO9g)
 - [An Introduction to Docker for Ruby Developers](https://www.youtube.com/watch?v=JTQpEXKoLUg)
-- [Lint & Format Messy Ruby Code Using Standard](https://www.youtube.com/watch?v=zQ4BiObOf2U)
 <!-- YOUTUBE-POST-LIST:END -->
