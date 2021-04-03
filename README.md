@@ -45,6 +45,6 @@ If you'd to talk with me about Ruby, please feel free to message me on [Twitter]
 ## 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [Introduction to Docker-Compose (For Ruby on Rails)](https://www.youtube.com/watch?v=VvLYIMOlM3Y)
 - [How to Remove ActiveStorage & ActionMailbox Routes in Rails](https://www.youtube.com/watch?v=IDsYWrsmO9g)
-- [An Introduction to Docker for Ruby Developers](https://www.youtube.com/watch?v=JTQpEXKoLUg)
 <!-- YOUTUBE-POST-LIST:END -->
