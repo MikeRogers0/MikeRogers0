@@ -37,9 +37,9 @@ If you'd to talk with me about Ruby, please feel free to message me on [Twitter]
 ## 📚 Latest [Blog](https://mikerogers.io/) Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving From Tailwind To CSS Variables](https://mikerogers.io/2021/05/12/moving-from-tailwind-to-css-variables)
 - [How To Handle Special Actions In Ruby on Rails Controllers?](https://mikerogers.io/2021/03/19/how-to-handle-special-actions-in-ruby-on-rails-controllers)
 - [How To Use API Keys for your SendGrid SMTP Integration](https://mikerogers.io/2021/01/03/how-to-use-api-keys-for-your-sendgrid-smtp-integration)
-- [How to Make Rails Work Offline (PWA)](https://mikerogers.io/2020/12/14/how-to-make-rails-work-offline-via-service-workers)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
