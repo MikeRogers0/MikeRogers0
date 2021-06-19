@@ -17,10 +17,10 @@ If you'd to talk with me about Ruby, please feel free to message me on [Twitter]
 
 ## 🛠 My Current Projects
 
-- [Typo CI](https://github.com/marketplace/typo-ci) - Check your code for spelling mistakes.
+- [Ruby Meetup Calendar](https://github.com/MikeRogers0/Ruby-Meetup-Calendar) - Easily find the current Ruby Events happening this month.
 - [Ruby Starter Kits](https://github.com/Ruby-Starter-Kits/) - Quick start Docker templates for Ruby applications.
 
-## 🍳 Skills
+## 🍳 Technology I Like
 
 <p>
   <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
