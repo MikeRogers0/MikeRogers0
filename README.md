@@ -45,7 +45,7 @@ If you'd to talk with me about Ruby, please feel free to message me on [Twitter]
 ## 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
 
 <!-- YOUTUBE-POST-LIST:START -->
-- [I'm speaking at RUG::B - 2nd July 2021 at 19:00 CEST](https://www.youtube.com/watch?v=LqNjaVsSyWs)
 - [How to Create Database Views using the Scenic Gem](https://www.youtube.com/watch?v=rdyzedPLuEQ)
 - [Environment Variables & Settings Objects in Ruby](https://www.youtube.com/watch?v=PeUR4OhjeCc)
+- [How to do Glob Imports in PostCSS](https://www.youtube.com/watch?v=D8J-WhJuXv0)
 <!-- YOUTUBE-POST-LIST:END -->
