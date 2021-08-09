@@ -37,9 +37,9 @@ If you'd to talk with me about Ruby, please feel free to message me on [Twitter]
 ## 📚 Latest [Blog](https://mikerogers.io/) Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Common (Non-standard) Ruby on Rails Migrations](https://mikerogers.io/2021/08/07/common-non-standard-ruby-on-rails-migrations)
 - [Saying Goodbye To Typo CI](https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci)
 - [Moving From Tailwind To CSS Variables](https://mikerogers.io/2021/05/12/moving-from-tailwind-to-css-variables)
-- [How To Handle Special Actions In Ruby on Rails Controllers?](https://mikerogers.io/2021/03/19/how-to-handle-special-actions-in-ruby-on-rails-controllers)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
