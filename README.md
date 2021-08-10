@@ -45,7 +45,7 @@ If you'd to talk with me about Ruby, please feel free to message me on [Twitter]
 ## 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
 
 <!-- YOUTUBE-POST-LIST:START -->
+- [How to build reusable validations in Ruby on Rails](https://www.youtube.com/watch?v=sjzTlHwZYhw)
 - [ngrok in 60 seconds](https://www.youtube.com/watch?v=dfMdLGZLXSg)
 - [How to use web-console & byebug](https://www.youtube.com/watch?v=XdWnDHjtNqM)
-- [How to Create Database Views using the Scenic Gem](https://www.youtube.com/watch?v=rdyzedPLuEQ)
 <!-- YOUTUBE-POST-LIST:END -->
