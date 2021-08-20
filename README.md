@@ -45,7 +45,7 @@ If you'd to talk with me about Ruby, please feel free to message me on [Twitter]
 ## 📺 Latest [YouTube](https://www.youtube.com/c/MikeRogers0) Videos
 
 <!-- YOUTUBE-POST-LIST:START -->
-- [Deploying to DigitalOcean Kubernetes (k8s) via Kuby & GitHub Actions](https://www.youtube.com/watch?v=AiC1q7K0bBE)
+- [How to Deploy to Kubernetes (k8s) via Kuby & GitHub Actions](https://www.youtube.com/watch?v=AiC1q7K0bBE)
 - [How to build reusable validations in Ruby on Rails](https://www.youtube.com/watch?v=sjzTlHwZYhw)
 - [ngrok in 60 seconds](https://www.youtube.com/watch?v=dfMdLGZLXSg)
 <!-- YOUTUBE-POST-LIST:END -->
