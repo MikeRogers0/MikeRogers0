@@ -37,7 +37,7 @@ If you'd to talk with me about Ruby, please feel free to message me on [Twitter]
 ## 📚 Latest [Blog](https://mikerogers.io/) Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Common (Non-standard) Ruby on Rails Migrations](https://mikerogers.io/2021/08/07/common-non-standard-ruby-on-rails-migrations)
+- [Common &lpar;Non-standard&rpar; Ruby on Rails Migrations](https://mikerogers.io/2021/08/07/common-non-standard-ruby-on-rails-migrations)
 - [Saying Goodbye To Typo CI](https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci)
 - [Moving From Tailwind To CSS Variables](https://mikerogers.io/2021/05/12/moving-from-tailwind-to-css-variables)
 <!-- BLOG-POST-LIST:END -->
